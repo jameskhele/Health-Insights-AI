@@ -1,16 +1,29 @@
 # 🧠 Health Insights AI (HIA)
 
-AI-powered system to analyze medical reports and provide health insights.
+AI-powered healthcare assistant that analyzes medical data and provides intelligent insights.
+
+---
+
+## 📸 Preview
+
+### 🏠 Dashboard
+![Dashboard](assets/ui.png)
+
+### 📊 Health Analysis
+![Analysis](assets/analysis.png)
+
+### 💬 AI Chat Assistant
+![Chat](assets/chat.png)
 
 ---
 
 ## 🌟 Features
 
-- AI-based health report analysis  
-- Simple chat assistant for health queries  
-- Clean and modern dashboard UI  
-- Upload and analyze basic medical data  
-- Interactive insights and recommendations  
+- 📊 Health data analysis dashboard  
+- 🤖 AI-powered chat assistant  
+- 📤 File upload support  
+- ⚡ Fast and clean UI  
+- 🧬 Basic health recommendations  
 
 ---
 
@@ -18,16 +31,11 @@ AI-powered system to analyze medical reports and provide health insights.
 
 - Python  
 - Streamlit  
-- AI Models (LLM-based logic)  
+- AI-based logic  
 
 ---
 
 ## 🚀 Installation
-
-### Requirements
-- Python 3.8+
-
-### Steps
 
 ```bash
 pip install -r requirements.txt
